@@ -1,3 +1,39 @@
-body {
-
+body{
+  background-color: #006E90;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 3px;
+  color: #ADCAD6;
+  text-decoration: underline;
+  text-decoration-color: #ADCAD6;
+  font-family: "Papyrus";
+}
+p{
+  font-size: 200%;
+  color: #ADCAD6;
+}
+img{
+  wdith: 200px;
+  border-style: ridge;
+  border-color: #00CCFF;
+}
+u1{
+  text-align: center;
+  list-style-type: none;
+  font-family: "papyrus";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  color: #00CCFF;
+  border-style: ridge
+}
+li a: hover{
+  background-color: #4C661D;
+  color: #4C661D;
+  font-family: "verdana";
 }
