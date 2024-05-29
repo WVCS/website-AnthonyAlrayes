@@ -1,0 +1,39 @@
+body{
+  background-color: #BDC4A7;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 3px;
+  color: #92B4A7;
+  text-decoration: underline;
+  text-decoration-color: #92B4A7;
+  font-family: "Verdana";
+}
+p{
+  font-size: 200%;
+  color: #92B4A7;
+}
+img{
+  wdith: 200px;
+  border-style: ridge;
+  border-color: #92B4A7;
+}
+u1{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Verdana";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  color: #92B4A7;
+  border-style: ridge
+}
+li a: hover{
+  background-color: #92B4A7;
+  color: #92B4A7;
+  font-family: "verdana";
+}
