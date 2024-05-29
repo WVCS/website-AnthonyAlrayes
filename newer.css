@@ -1,1 +1,39 @@
-
+body{
+  background-color: #168E3C;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 3px;
+  color: #E6730E;
+  text-decoration: underline;
+  text-decoration-color: #E6730E;
+  font-family: "Verdana";
+}
+p{
+  font-size: 200%;
+  color: #E6730E;
+}
+img{
+  wdith: 200px;
+  border-style: ridge;
+  border-color: #44E60E;
+}
+u1{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Verdana";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  color: #E6730E;
+  border-style: ridge
+}
+li a: hover{
+  background-color: #E6730E;
+  color: #E6730E;
+  font-family: "verdana";
+}
